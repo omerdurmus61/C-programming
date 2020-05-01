@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585767598 source:c:\users\Ömer\desktop\c programlama\string printf\main.c
+	<stdio.h>
+	<stdlib.h>
+
