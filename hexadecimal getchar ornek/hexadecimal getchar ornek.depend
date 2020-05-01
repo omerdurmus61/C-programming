@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586127440 source:c:\users\Ömer\desktop\c programlama\hexadecimal getchar ornek\main.c
+	<stdio.h>
+	<stdlib.h>
+

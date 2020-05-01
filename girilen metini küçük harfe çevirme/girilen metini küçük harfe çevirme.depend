@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585056430 source:c:\users\Ömer\desktop\c programlama\girilen metini küçük harfe çevirme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

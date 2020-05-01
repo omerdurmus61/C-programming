@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585094164 source:c:\users\Ömer\desktop\c programlama\girilen metindeki sayýsal degerlerin toplamýný sölyer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
