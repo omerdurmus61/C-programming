@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584991576 source:c:\users\Ömer\desktop\c programlama\tip dönüþümleri2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
