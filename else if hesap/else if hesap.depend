@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587035861 source:c:\users\Ömer\desktop\c programlama\else if hesap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
