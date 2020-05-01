@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585434221 source:c:\users\Ömer\desktop\c programlama\operator ornek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
