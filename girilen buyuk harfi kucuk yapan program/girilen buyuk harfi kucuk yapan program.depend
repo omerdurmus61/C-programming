@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585093658 source:c:\users\Ömer\desktop\c programlama\girilen buyuk harfi kucuk yapan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
