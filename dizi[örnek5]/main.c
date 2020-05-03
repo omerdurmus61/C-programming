@@ -3,13 +3,20 @@
 
 int main()
 {
-     int dizi[10]={25,22,17,19,47,3,98,5,124,10};
-     int sayi;
+    int dizi[3][3]= {
+                        {3,5,6},
+                        {4,2,3},
+                        {4,8,7}
+                    };
 
-     printf("1 ile 10 arasinda bir sayi giriniz.\n");
-     scanf("%d",&sayi);
-
-
+    for(int i=0;i<3;i++)
+    {
+        for(int j=0;j<3;j++)
+        {
+            printf("%3d",dizi[i][j]);
+        }
+        printf("\n");
+    }
 
     return 0;
 }
