@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590505184 source:c:\users\Ömer\desktop\c programlama\ingilizce sozluk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
