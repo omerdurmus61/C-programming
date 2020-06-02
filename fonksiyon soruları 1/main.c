@@ -3,7 +3,6 @@
 int minimum(int ,int );
 int obeb(int ,int );
 int okek(int ,int );
-int kareBul(int );
 int main()
 {   int sayi1,sayi2;
 
