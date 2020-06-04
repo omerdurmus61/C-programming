@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591304377 source:c:\users\Ömer\desktop\c programlama\fonksiyonlar soru 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
