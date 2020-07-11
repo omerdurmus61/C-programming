@@ -3,17 +3,20 @@
 
 int main()
 {
-    char can[]={'o','m','e','r','c','\0'};
+   int i;
 
-    char dizim[]="omer\n";
-    char kullanici[10];
+   char iller[][10]={"bursa","istanbul","ankara"};
 
-    printf("%s",dizim);
+    puts("--------------il listesi--------------");
 
-    scanf("lutfen bir karakter dizisi giriniz\n");
-    scanf("%s",&kullanici);
+    for(i=0;i<3;i++)
+        puts(iller[i]);
 
-    printf("\n");
-    printf("%s",kullanici);
+        puts("--------------ulke listesi-------------- ");
+
+    char ulkeler[][10]={"turkiye","almanya","rusya"};
+
+    for(i=0;i<3;i++)
+        puts(ulkeler[i]);
     return 0;
 }
