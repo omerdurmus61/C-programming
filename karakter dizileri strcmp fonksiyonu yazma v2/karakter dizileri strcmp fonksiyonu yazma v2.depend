@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594570949 source:c:\users\Ömer\desktop\c programlama\karakter dizileri strcmp fonksiyonu yazma v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
