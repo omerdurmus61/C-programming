@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594769398 source:c:\users\Ömer\desktop\c programlama\seri deðeri hesaplama v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
