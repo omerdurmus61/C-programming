@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595726509 source:c:\users\Ömer\desktop\c programlama\karakter dizileri orta seviye ornek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
