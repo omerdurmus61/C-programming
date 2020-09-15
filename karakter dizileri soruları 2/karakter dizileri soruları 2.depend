@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600178176 source:c:\users\Ömer\desktop\c programlama\karakter dizileri sorularý 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
