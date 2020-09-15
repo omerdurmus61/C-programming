@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600177577 source:c:\users\Ömer\desktop\c programlama\karakterdizilerisorularý 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
